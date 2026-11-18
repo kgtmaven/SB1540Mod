@@ -1,0 +1,25 @@
+[InstallShield Silent]
+Version=v7.00
+File=Response File
+[File Transfer]
+OverwrittenReadOnly=NoToAll
+[{ADE972AD-7816-4B52-8E73-264B4FBB5CC0}-DlgOrder]
+Dlg0={ADE972AD-7816-4B52-8E73-264B4FBB5CC0}-LICENSE_DLG-0
+Count=4
+Dlg1={ADE972AD-7816-4B52-8E73-264B4FBB5CC0}-SetupCustomSdOptionsButtons-0
+Dlg2={ADE972AD-7816-4B52-8E73-264B4FBB5CC0}-SdStartCopy-0
+Dlg3={ADE972AD-7816-4B52-8E73-264B4FBB5CC0}-SdFinishReboot-0
+[{ADE972AD-7816-4B52-8E73-264B4FBB5CC0}-LICENSE_DLG-0]
+Result=1
+[{ADE972AD-7816-4B52-8E73-264B4FBB5CC0}-SetupCustomSdOptionsButtons-0]
+Result=101
+[{ADE972AD-7816-4B52-8E73-264B4FBB5CC0}-SdStartCopy-0]
+Result=1
+[Application]
+Name=Sound Blaster R3_A6U Extras
+Version=1.0
+Company=Creative Tech
+Lang=0009
+[{ADE972AD-7816-4B52-8E73-264B4FBB5CC0}-SdFinishReboot-0]
+Result=1
+BootOption=0
