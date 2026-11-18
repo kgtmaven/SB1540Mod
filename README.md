@@ -13,7 +13,7 @@ For the Sound Blaster R3 / Audigy 6 USB sound cards, effects that were originall
 <br/>
 
 ## Installation
-Just click Download Zip, extract the files, and reboot in 'Disable driver signature enforcement' mode. then run "setup.exe".
+Go to the Releases page and download the zip file. and extract the files, and reboot in 'Disable driver signature enforcement' mode. then run "setup.exe".
 
 <br/>
 
